@@ -29,6 +29,7 @@ act.moveToElement(ele).perform();
  JavascriptExecutor js = (JavascriptExecutor)driver1;
  System.out.print("sedhu");
 		System.out.print("haema");
+		System.out.print("sedhuhaema");
 	}
 
 }
