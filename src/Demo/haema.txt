@@ -9,10 +9,8 @@ h
 i
 j
 k
-l
-o
+new thing
+new thing
+new thing
+new thing
 
-new thing
-new thing
-new thing
-new thing
