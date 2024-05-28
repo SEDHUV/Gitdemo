@@ -27,6 +27,7 @@ act.moveToElement(ele).perform();
  WebElement personal = driver1.findElement(By.linkText("Personal Loan"));
  //act.moveToElement(personal).click().perform();
  JavascriptExecutor js = (JavascriptExecutor)driver1;
+ System.out.print("sedhu");
 	}
 
 }
