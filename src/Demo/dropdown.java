@@ -28,6 +28,7 @@ act.moveToElement(ele).perform();
  //act.moveToElement(personal).click().perform();
  JavascriptExecutor js = (JavascriptExecutor)driver1;
  System.out.print("sedhu");
+		System.out.print("haema");
 	}
 
 }
